@@ -1,4 +1,5 @@
 # Practicas
-Practicas
-Control de versiones
+Practicas.
+Control de versiones.
+
 
